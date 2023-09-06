@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdPFN0ExpYLD32Xc8Hz7pRoKirvAlydsjIPgBVBWN6rOeM02dsqdT/7ciUVj/lLNpDVme9qaORQZ9fXJkUOF/A==",
+  "success": true,
+  "projectFilePath": "C:\\PROJECTS\\PKiR\\Projekt\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdude\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mdude\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
